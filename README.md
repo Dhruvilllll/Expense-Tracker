@@ -7,3 +7,6 @@ Expense Tracker Welcome to the Expense Tracker repository! This project is a sim
 User Authentication: Secure login and registration system to manage individual accounts. 
 Categorization: Organize your expenses into different categories such as food, transportation, entertainment, etc.
 Search and Filter: Quickly find expenses by date, category, or amount
+
+
+(PS: still working on it to make it usable on web)
